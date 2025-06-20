@@ -124,8 +124,6 @@
     width: 340px;
   }
 }
-
-
 .u-avatar-wrapper {
   display: flex;
   justify-content: center;
@@ -162,31 +160,31 @@
 
 @media (max-width: 991px) {
   .u-avatar-border {
-    width: 36vw;
-    max-width: 140px;
-    height: 36vw;
-    max-height: 140px;
+    width: 50vw;
+    max-width: 200px;
+    height: 50vw;
+    max-height: 200px;
   }
   .u-avatar-img {
-    width: 32vw;
-    max-width: 132px;
-    height: 32vw;
-    max-height: 132px;
+    width: 44vw;
+    max-width: 180px;
+    height: 44vw;
+    max-height: 180px;
   }
 }
 
 @media (max-width: 575px) {
   .u-avatar-border {
-    width: 48vw;
-    max-width: 100px;
-    height: 48vw;
-    max-height: 100px;
+    width: 70vw;
+    max-width: 160px;
+    height: 70vw;
+    max-height: 160px;
   }
   .u-avatar-img {
-    width: 42vw;
-    max-width: 92px;
-    height: 42vw;
-    max-height: 92px;
+    width: 62vw;
+    max-width: 148px;
+    height: 62vw;
+    max-height: 148px;
   }
 }
 .u-logo-image, .u-logo img {
